@@ -1,3 +1,3 @@
 public class test {
-    public String name="zhangsan";
+    public String name="lisi";
 }
